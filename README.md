@@ -2,9 +2,10 @@
 
 This project show how to use akka with a simple example in which a travel agency need book a flight and a room as well. Both books are asynchronous and immutable.
 
-Before Run this project: 
-- Ide download scala ide from http://scala-ide.org/ 
-- Import project
+Before Run this project:
+- Download sbt(build tool for Scala, Java, and more) http://www.scala-sbt.org/download.html
+- Download scala ide from http://scala-ide.org/ 
+- Import this project.
 - Configure the main class BookingMain with the images below
 
 <p align="center">
