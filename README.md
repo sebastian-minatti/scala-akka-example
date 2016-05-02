@@ -1,6 +1,6 @@
 #Scala and akka
 
-This project show how to use akka with a simple example in which a travel agency need book a flight and a room as well. Both books are asynchronous and immutable.
+This project show how to use akka with a simple example in which a travel agency need book a seat flight and a room in a hotel as well. Both bookings are made asynchronously and immutable.
 
 Before Run this project:
 - Download sbt(build tool for Scala, Java, and more) http://www.scala-sbt.org/download.html
